@@ -24,7 +24,7 @@ Focado em desenvolvimento de software, arquitetura de sistemas e boas práticas 
 ### 🚀 Interesses & Curiosidades
 
 * 🌱 **Próximos passos:** Aprofundando estudos em ambiente Linux, conteinerização com Docker e explorando os fundamentos de **Kubernetes**.
-* 🎥 **Curiosidade técnica:** Fascinado por multimídia e algoritmos de processamento de mídia — passei parte das últimas férias explorando o funcionamento do codec de vídeo **AV1**.
+* 🎥 **Curiosidade técnica:** Fascinado por multimídia e algoritmos de processamento de mídia, atualmente brincando e explorando o funcionamento do codec de vídeo **AV1**.
 * ⚡ **Fora do terminal:** Entusiasta do universo **Gundam** e ficção científica.
 
 📫 **Onde me encontrar:**
