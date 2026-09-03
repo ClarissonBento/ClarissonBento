@@ -17,7 +17,8 @@ Focado em desenvolvimento de software, arquitetura de sistemas e boas práticas 
 
 ### 📌 Em destaque
 * 🎮 **Projeto Integrador:** Arquitetura e desenvolvimento de um jogo educativo para o Ensino Fundamental utilizando **Java, Spring Boot e React**.
-* 🤝 **Inclusão & Mentoria:** Atuação no Núcleo de Apoio à Inclusão (NAI) apoiando estudantes com necessidades específicas.
+* 🔍 **TCC / Mineração de Dados:** Extração e análise de dados do Reddit voltada à identificação e estudo de padrões em relatos de golpes.
+* 🤝 **Inclusão & Mentoria:** Atuação no Núcleo de Apoio à Inclusão (NAI) prestando suporte acadêmico a estudantes com necessidades específicas.
 
 ---
 
@@ -25,7 +26,8 @@ Focado em desenvolvimento de software, arquitetura de sistemas e boas práticas 
 
 * 🌱 **Próximos passos:** Aprofundando estudos em ambiente Linux, conteinerização com Docker e explorando os fundamentos de **Kubernetes**.
 * 🎥 **Curiosidade técnica:** Fascinado por multimídia e algoritmos de processamento de mídia, atualmente brincando e explorando o funcionamento do codec de vídeo **AV1**.
-* ⚡ **Fora do terminal:** Entusiasta do universo **Gundam** e ficção científica.
+* 📐 **Bagagem analítica:** Cursei 3 anos de **Física** antes da transição para Ciência da Computação, o que fortaleceu minha base matemática e lógica.
+* ⚡ **Fora do terminal:** Fã do universo **Gundam** e ficção científica.
 
 📫 **Onde me encontrar:**
 * [LinkedIn](vou colocar depois)
