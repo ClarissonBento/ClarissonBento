@@ -2,7 +2,7 @@
 
 Graduando em **Ciência da Computação** pela Universidade Federal de Viçosa (UFV), em fase de conclusão de curso. 
 
-Focado em desenvolvimento de software, arquitetura de sistemas e boas práticas de engenharia. Tenho experiência prática construindo aplicações web de ponta a ponta com **Java/Spring Boot** e **React**, além de vivência em ambientes **Linux** e ferramentas de conteinerização.
+Focado em desenvolvimento de software confiável, sistemas e boas práticas de engenharia e arquitetura de software. Tenho experiência prática construindo aplicações web de ponta a ponta com **Java/Spring Boot** e **React**, além de vivência em ambientes **Linux** e ferramentas de conteinerização.
 
 ---
 
