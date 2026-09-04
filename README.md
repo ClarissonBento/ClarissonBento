@@ -8,7 +8,7 @@ Focado em desenvolvimento de software confiável, sistemas e boas práticas de e
 
 ### 🛠️ Tecnologias & Ferramentas
 
-* **Linguagens:** Java, Python, C, JavaScript (ES6+)
+* **Linguagens:** C, Python, Java, JavaScript
 * **Backend & Web:** Spring Boot, RESTful APIs, React.js
 * **DevOps & Ambiente:** Git, GitHub, Linux (Bash), Docker
 * **Conceitos:** Programação Orientada a Objetos (POO), Arquitetura de Software, Estruturas de Dados e Algoritmos
@@ -30,5 +30,5 @@ Focado em desenvolvimento de software confiável, sistemas e boas práticas de e
 * ⚡ **Fora do terminal:** Fã do universo **Gundam** e ficção científica.
 
 📫 **Onde me encontrar:**
-* [LinkedIn](vou colocar depois)
+* [LinkedIn](https://www.linkedin.com/in/clarisson-bento-19b024141/)
 * [Email](mailto:clarissonhenriq@gmail.com)
